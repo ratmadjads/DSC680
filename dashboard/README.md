@@ -90,6 +90,21 @@ Besides requiring the selection and use of a fitted model, my deployment phase d
 ### Dash Application
 I created a dash application that I hosted at http://textminingdaesh.ml to help me tell the history of the Islamic State organization and visualizing the data collected from the JustPasteIt website. Additionally, I created an interactive map that maps the Islamic State locations from 2015 to 2020. I also deployed my random forest classifier to my dash application to help classify news articles or posts and categorizing the tone in the news article/post into analytical, joyful, sadness, fear, confidence, anger, and tentative. For example, the graph below shows the locations related to the special forces and explosions in the Middle East.
 ![DASHAPP](dashapp.gif)
+<br>
+
+## Discussion
+The Islamic State (Daesh) is a large terrorist organization. However, everybody has a different point of view about this organization. For instance, for some believers, the Islamic State is a religious organization or Caliphate, but for those who opposed it, it is a terrorist organization. Over the past years, the Islamic State organization has learned how to manipulate and effectively used social media as propaganda tools to recruit foreign fighters and spread their ideologies. 
+The Islamic State is a descendant of al-Qaeda in Iraq, and after the death of Abu Musab al-Zarqawi in 2006, this organization almost lost its structure. But under the new leadership of Abu Bakr al-Baghdadi, this organization established clear lines of authority by gaining and holding land, mostly in Iraq and Syria. Additionally, the Islamic State behaves differently than any other terrorist organization in the world. We can see the differences in their operations, organization structures, and recruiting tactics. For instance, the organization has its cyber warriors and multimedia teams whose jobs are to spread their doomsday cult belief through videos and social media messages and influence the general population.
+Additionally, the Islamic State used social media to inject terror and show their enemies weakness by posting pictures of them defeating and beheading their enemies. Islamic State looks powerful because it projected itself using weaponized social media campaigns and simultaneously cause confusion and gather support for its invasion of Iraq and Syria. In my opinion, the Islamic State disinformation techniques are similar to those employed by the Russian government. For instance, during the invasion of Crimea, the Russian bots and cyber warriors spread propaganda messages through social media to gain public support. Additionally, the Russian government expands its propaganda messages using news platforms such as RT (Russia Today) or WikiLeaks to broadcast fake news or create a wedge between political parties.  
+
+![TIMESERIES](timeseries.jpg)
+On the other hand, during the Islamic State social media campaign between 2014 and 2017, many of its supporters post many messages mentioning Abu Omar Al-Baghdadi, Abu Bakhar Al-Baghdadi, God, and Islam, and the majority of the posts are written in third-person. In conclusion, the Islamic state effectively used Social Media for ideological radicalization, recruitment, communication, and training. Social Media also opens a new possibility for terrorist groups to coordinate illicit activities such as drug smuggling, gunrunning, or spreading malware.
+
+## References
+1. Use of social media by the Islamic State of Iraq and the Levant. (2020, September 26). Retrieved December 03, 2020, from https://en.wikipedia.org/wiki/Use_of_social_media_by_the_Islamic_State_of_Iraq_and_the_Levant.
+2. The Islamic State of Iraq and the Levant. (2020, December 03). Retrieved December 04, 2020, from https://en.wikipedia.org/wiki/Islamic_State_of_Iraq_and_the_Levant.
+3. The Islamic State of Iraq and the Levant. (2021, January 05). Retrieved January 07, 2021, from https://en.wikipedia.org/wiki/Islamic_State_of_Iraq_and_the_Levant#Ideology
+
 
 
 
