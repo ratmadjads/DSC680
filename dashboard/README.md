@@ -43,6 +43,7 @@ JustPasteIt removed many of the Islamic State posts and images, but some of the 
 
 ## Storing non-English Characters
 The post collected from the JustPasteIt website contains different languages such as Arabic, English, Italian, Japanese, and Turkish. Some of these languages, when stored inside the MySQL tables, caused MySQL to throw errors. Therefore, to preserve data integrity, I used base64 encoding to encode and decode the raw data safely. (Figure-A Shows the different types of languages used).
+<br> 
 ![LANG](language_one.png)
 ![LANG](lang_two.png)
 
