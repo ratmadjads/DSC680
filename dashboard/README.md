@@ -1,4 +1,4 @@
-# Islamic State (http://www.textminingdaesh.ml)
+# Mining The Islamic State Posts (http://www.textminingdaesh.ml)
 ## **What is the Islamic State** 
 The Islamic State of Iraq and the Levant (ISIL), also known as the Islamic State of Iraq and Syria, and its opponents refer in Arabic acronym as Daesh. ISIL was founded in 1999 by Abu Musab al-Zarqawi, a Jordanian jihadist who ran a terrorist training camp in Afghanistan. This organization pledged allegiance to al-Qaeda and participated in the Iraqi insurgency following the 2003 invasion of Iraq by the coalition forces. In June of 2014, the group renamed the organization as the Islamic State (ad-Dawalah al-Islamiyah الدولة الإسلامية). The Islamic Organization wants to claim religious, political, and military authority over all Muslims worldwide. 
 
