@@ -74,7 +74,8 @@ Both model one and model two perform poorly; therefore, I created a new corpus b
 
 The other major component of my test plan is to choose the appropriate evaluation metrics to use during the testing; besides the accuracy score, I used the following evaluation metrics: f1, precision, and recall scores. Especially the f1-score because a high f1 score indicates that both the precision and recall are high. Here is the result of my test: 
 ![METRICTHREE](metric_three.png)
-
+<br> 
+<br>
 Additionally, to visualize my random forest classifier's performance, I choose the confusion matrix because it is easy to interpret the result. For instance, each column of the matrix represents predicted classes, while each row represents the actual class. Overall, my random forest model did an excellent job in classifying the tones in news articles or JustPasteIt posts. Moreover, this model has an AUC score of 0.999948, which is close to one. Because I have seven categories of tones, therefore for my cross-validation method, I used a macro mode to calculate the mean of metric scores for each class by weighting each type equally. 
 ![CM](cm_graph.png)
 
