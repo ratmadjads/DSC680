@@ -5,6 +5,7 @@
 * Islamic State.
 * Casualties of War in the Middle East and Airstrikes in the Middle East (Note: Emphasis on Iraq, Syria, and Yemen).
 * Misc: North Korea Missile Developments.
+* News category classifications 
 
 ## Milestone Summary
 * This milestone aims to study Islamic State recruitment through Social Media such as JustPasteIt and Twitter. In this milestone, I collected posts and tweets that belong to the Islamic State organization. The majority of the posts collected from the JustPasteIt were in Arabic or some other languages. Therefore, to help me translate all the documents, I used the Google Cloud API translations. Additionally, I collected images posted by the Islamic State organization that contain violence, battlefield footage, or recruitment messages. To understand the contents embedded in these footages, I used the Google Cloud OCR API to extract all the text and store them in my MySQL RDBMS for further analysis. Furthermore, to build my tone classifier model, I used the IBM Tone analyzer to label all the posts on my initial dataset. 
