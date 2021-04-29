@@ -23,6 +23,7 @@
 ## Public Python Packages: 
 * Google Cloud OCR (Google Character Recognitions)
 * Google Cloud Translation (Documents Translations)
+* Google Cloud NLP (Natural Language Processing)
 * Twitter API
 * IBM Watson
 
